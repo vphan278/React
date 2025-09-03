@@ -1,0 +1,278 @@
+{
+  "users": [],
+  "products": [
+    {
+      "_id": "p1",
+      "title": "NIKE shoes 1",
+      "description": "nike shoes",
+      "images": [
+        "https://picsum.photos/seed/1/600/600"
+      ],
+      "brand": "nike",
+      "category": "shoes",
+      "price": 20,
+      "salePrice": 15,
+      "stock": 50
+    },
+    {
+      "_id": "p2",
+      "title": "ADIDAS shirts 2",
+      "description": "adidas shirts",
+      "images": [
+        "https://picsum.photos/seed/2/600/600"
+      ],
+      "brand": "adidas",
+      "category": "shirts",
+      "price": 30,
+      "salePrice": 0,
+      "stock": 50
+    },
+    {
+      "_id": "p3",
+      "title": "PUMA pants 3",
+      "description": "puma pants",
+      "images": [
+        "https://picsum.photos/seed/3/600/600"
+      ],
+      "brand": "puma",
+      "category": "pants",
+      "price": 40,
+      "salePrice": 0,
+      "stock": 50
+    },
+    {
+      "_id": "p4",
+      "title": "LEVI jackets 4",
+      "description": "levi jackets",
+      "images": [
+        "https://picsum.photos/seed/4/600/600"
+      ],
+      "brand": "levi",
+      "category": "jackets",
+      "price": 50,
+      "salePrice": 45,
+      "stock": 50
+    },
+    {
+      "_id": "p5",
+      "title": "ZARA shoes 5",
+      "description": "zara shoes",
+      "images": [
+        "https://picsum.photos/seed/5/600/600"
+      ],
+      "brand": "zara",
+      "category": "shoes",
+      "price": 60,
+      "salePrice": 0,
+      "stock": 50
+    },
+    {
+      "_id": "p6",
+      "title": "HM shirts 6",
+      "description": "hm shirts",
+      "images": [
+        "https://picsum.photos/seed/6/600/600"
+      ],
+      "brand": "hm",
+      "category": "shirts",
+      "price": 70,
+      "salePrice": 0,
+      "stock": 50
+    },
+    {
+      "_id": "p7",
+      "title": "NIKE pants 7",
+      "description": "nike pants",
+      "images": [
+        "https://picsum.photos/seed/7/600/600"
+      ],
+      "brand": "nike",
+      "category": "pants",
+      "price": 20,
+      "salePrice": 15,
+      "stock": 50
+    },
+    {
+      "_id": "p8",
+      "title": "ADIDAS jackets 8",
+      "description": "adidas jackets",
+      "images": [
+        "https://picsum.photos/seed/8/600/600"
+      ],
+      "brand": "adidas",
+      "category": "jackets",
+      "price": 30,
+      "salePrice": 0,
+      "stock": 50
+    },
+    {
+      "_id": "p9",
+      "title": "PUMA shoes 9",
+      "description": "puma shoes",
+      "images": [
+        "https://picsum.photos/seed/9/600/600"
+      ],
+      "brand": "puma",
+      "category": "shoes",
+      "price": 40,
+      "salePrice": 0,
+      "stock": 50
+    },
+    {
+      "_id": "p10",
+      "title": "LEVI shirts 10",
+      "description": "levi shirts",
+      "images": [
+        "https://picsum.photos/seed/10/600/600"
+      ],
+      "brand": "levi",
+      "category": "shirts",
+      "price": 50,
+      "salePrice": 45,
+      "stock": 50
+    },
+    {
+      "_id": "p11",
+      "title": "ZARA pants 11",
+      "description": "zara pants",
+      "images": [
+        "https://picsum.photos/seed/11/600/600"
+      ],
+      "brand": "zara",
+      "category": "pants",
+      "price": 60,
+      "salePrice": 0,
+      "stock": 50
+    },
+    {
+      "_id": "p12",
+      "title": "HM jackets 12",
+      "description": "hm jackets",
+      "images": [
+        "https://picsum.photos/seed/12/600/600"
+      ],
+      "brand": "hm",
+      "category": "jackets",
+      "price": 70,
+      "salePrice": 0,
+      "stock": 50
+    },
+    {
+      "_id": "p13",
+      "title": "NIKE shoes 13",
+      "description": "nike shoes",
+      "images": [
+        "https://picsum.photos/seed/13/600/600"
+      ],
+      "brand": "nike",
+      "category": "shoes",
+      "price": 20,
+      "salePrice": 15,
+      "stock": 50
+    },
+    {
+      "_id": "p14",
+      "title": "ADIDAS shirts 14",
+      "description": "adidas shirts",
+      "images": [
+        "https://picsum.photos/seed/14/600/600"
+      ],
+      "brand": "adidas",
+      "category": "shirts",
+      "price": 30,
+      "salePrice": 0,
+      "stock": 50
+    },
+    {
+      "_id": "p15",
+      "title": "PUMA pants 15",
+      "description": "puma pants",
+      "images": [
+        "https://picsum.photos/seed/15/600/600"
+      ],
+      "brand": "puma",
+      "category": "pants",
+      "price": 40,
+      "salePrice": 0,
+      "stock": 50
+    },
+    {
+      "_id": "p16",
+      "title": "LEVI jackets 16",
+      "description": "levi jackets",
+      "images": [
+        "https://picsum.photos/seed/16/600/600"
+      ],
+      "brand": "levi",
+      "category": "jackets",
+      "price": 50,
+      "salePrice": 45,
+      "stock": 50
+    },
+    {
+      "_id": "p17",
+      "title": "ZARA shoes 17",
+      "description": "zara shoes",
+      "images": [
+        "https://picsum.photos/seed/17/600/600"
+      ],
+      "brand": "zara",
+      "category": "shoes",
+      "price": 60,
+      "salePrice": 0,
+      "stock": 50
+    },
+    {
+      "_id": "p18",
+      "title": "HM shirts 18",
+      "description": "hm shirts",
+      "images": [
+        "https://picsum.photos/seed/18/600/600"
+      ],
+      "brand": "hm",
+      "category": "shirts",
+      "price": 70,
+      "salePrice": 0,
+      "stock": 50
+    }
+  ],
+  "carts": {},
+  "reviews": {},
+  "orders": [
+    {
+      "_id": "o1",
+      "userId": "guest",
+      "cartId": "local",
+      "items": [
+        {
+          "productId": "p8",
+          "title": "ADIDAS jackets 8",
+          "image": "https://picsum.photos/seed/8/600/600",
+          "price": 30,
+          "salePrice": 0,
+          "quantity": 1
+        },
+        {
+          "productId": "p1",
+          "title": "NIKE shoes 1",
+          "image": "https://picsum.photos/seed/1/600/600",
+          "price": 20,
+          "salePrice": 15,
+          "quantity": 1
+        },
+        {
+          "productId": "p12",
+          "title": "HM jackets 12",
+          "image": "https://picsum.photos/seed/12/600/600",
+          "price": 70,
+          "salePrice": 0,
+          "quantity": 2
+        }
+      ],
+      "address": null,
+      "amount": 185,
+      "status": "created",
+      "createdAt": "2025-08-24T10:54:44.069Z"
+    }
+  ]
+}
